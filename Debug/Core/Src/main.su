@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Drivers/CMSIS/Include/core_cm3.h:1834:26:SysTick_Config	16	static
+../Core/Src/main.c:32:1:__io_putchar	16	static
+../Core/Src/main.c:91:6:SysTick_Handler	4	static
+../Core/Src/main.c:101:6:TIME_DELAY	16	static
+../Core/Src/main.c:108:5:main	16	static
+../Core/Src/main.c:229:6:SystemClock_Config	72	static
+../Core/Src/main.c:264:13:MX_TIM3_Init	16	static
+../Core/Src/main.c:313:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:346:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:368:7:CH_LIGHT	48	static
+../Core/Src/main.c:399:6:Error_Handler	4	static,ignoring_inline_asm
